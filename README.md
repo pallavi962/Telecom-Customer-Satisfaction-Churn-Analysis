@@ -74,11 +74,8 @@ The dataset contains customer-level information including:
 
 ### Telecom Customer Satisfaction & Churn Dashboard
 
-*(Add your dashboard screenshot here)*
+![Dashboard](Dashboard/Dashboard.jpg)
 
-```markdown
-![Dashboard](images/dashboard.png)
-```
 
 ---
 
